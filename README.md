@@ -16,3 +16,8 @@ PlusrのSwiftのコーディング規約
 - 定数
 - 関数
 - メソッド名
+
+
+## 参考
+
+http://qiita.com/susieyy/items/f71435cc962e70d81b37
