@@ -23,12 +23,12 @@ PlusrのSwiftのコーディング規約
 
 ## 参考
 
-http://easyramble.com/swift-coding-convention.html
-http://qiita.com/susieyy/items/f71435cc962e70d81b37
-https://github.com/wantedly/swift-style-guide/blob/master/README.md
-https://github.com/jarinosuke/swift-style-guide/blob/master/README_JP.md
-https://github.com/raywenderlich/swift-style-guide
-https://github.com/dekatotoro/swift-style-guide/blob/master/ja_style_guide.md
-https://github.com/yimajo/swift-style-guide
-http://sportngin.github.io/styleguide/swift.html
+- http://easyramble.com/swift-coding-convention.html
+- http://qiita.com/susieyy/items/f71435cc962e70d81b37
+- https://github.com/wantedly/swift-style-guide/blob/master/README.md
+- https://github.com/jarinosuke/swift-style-guide/blob/master/README_JP.md
+- https://github.com/raywenderlich/swift-style-guide
+- https://github.com/dekatotoro/swift-style-guide/blob/master/ja_style_guide.md
+- https://github.com/yimajo/swift-style-guide
+- http://sportngin.github.io/styleguide/swift.html
 
