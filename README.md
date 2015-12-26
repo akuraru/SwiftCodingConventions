@@ -21,6 +21,17 @@ PlusrのSwiftのコーディング規約
 
 現状、日本語が使えないエンジニアが弊社にいないため、無理に英語の命名をするくらいなら日本語を使いましょう。
 
+## Objective-Cとの連携について
+
+#### 使用禁止のクラス
+
+以下のものを使用禁止します。
+
+・NSString とそのサブクラス
+・NSArray とそのサブクラス
+・NSDictionary とそのサブクラス
+
+
 ## 参考
 
 - http://easyramble.com/swift-coding-convention.html
