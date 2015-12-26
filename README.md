@@ -27,9 +27,9 @@ PlusrのSwiftのコーディング規約
 
 以下のものを使用禁止します。
 
-・NSString とそのサブクラス
-・NSArray とそのサブクラス
-・NSDictionary とそのサブクラス
+- NSString とそのサブクラス
+- NSArray とそのサブクラス
+- NSDictionary とそのサブクラス
 
 
 ## 参考
